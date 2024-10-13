@@ -31,5 +31,10 @@ public class Tipos_datos {
         char tipoCaracter = 'c';
         System.out.println("El tipo caracter es : " + tipoCaracter);
 
+        // Tipos de datos booleano
+        boolean tipoBoolean = true;
+        System.out.println("El tipo boolean es : " + tipoBoolean); //true o false
+
+
     }
 }
